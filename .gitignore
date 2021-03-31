@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# add folder for protected data
+/mydata
+
+# specific file not to sync
+mydata.csv
